@@ -3,7 +3,7 @@
 <a href="https://github.com/lassedtu?tab=repositories"><img src="https://img.shields.io/github/stars/lassedtu?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
 </p>
 
-Hey, I’m Lasse! I’m a Danish university student diving into Software Technology at DTU. I like messing with code, picking up new skills, and creating  tools or projects along the way. Lately, I’ve been exploring Neovim, Rust, and Java.
+Hey, I’m Lasse! I’m a Danish university student, studying Software Technology at DTU. I like learning to code on my own, creating tools and projects in the process. Lately, I’ve been exploring Neovim, Rust, and Java.
 
 ### Pinned Repositories
 
