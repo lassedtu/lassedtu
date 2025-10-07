@@ -31,7 +31,4 @@ Languages & frameworks I work with:
 
 and I’m always learning more languages and frameworks.
 
-### Let's connect!
-
-- 💼 LinkedIn: [Lasse](https://www.linkedin.com/in/lasses-linked-in/)  
-- 🌐 GitHub: [lassedtu](https://github.com/lassedtu)
+### [Let's connect!](https://www.linkedin.com/in/lasses-linked-in/)  
