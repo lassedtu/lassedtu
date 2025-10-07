@@ -35,7 +35,13 @@ and I’m always learning more languages and frameworks.
 
 <p align="center">
   <img height="150" width="auto" src="https://github-readme-stats.vercel.app/api?username=lassedtu&show_icons=true&count_private=true&theme=darcula&hide_border=true">
+</p>
+
+<p align="center">
   <img height="150" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lassedtu&layout=compact&hide_border=true&theme=darcula&langs_count=6">
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=lassedtu&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
