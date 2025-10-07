@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align='center'>👋 Hello!</h1>
+<p align='center'>
+<a href="https://github.com/lassedtu?tab=repositories"><img src="https://img.shields.io/github/stars/lassedtu?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
+</p>
 
-<!--
-**lassedtu/lassedtu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I’m Lasse! I’m a Danish university student diving into Software Technology at DTU. I like messing with code, picking up new skills, and creating  tools or projects along the way. Lately, I’ve been exploring Neovim, Rust, and Java.
 
-Here are some ideas to get you started:
+### Pinned Repositories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out some of my highlighted projects:
+
+- 💻 [Java GOL](https://github.com/lassedtu/java-gol) – A Java implementation of the Game of Life.
+- 🔍 [Java Grep](https://github.com/lassedtu/java-grep) – A small project for text searching, similar to Unix `grep`.
+- 🧮 [Java Calculator](https://github.com/lassedtu/java-calculator) – A Java-based calculator project.
+
+### Tech Stack
+
+Languages & frameworks I work with:
+
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+and I’m always learning more languages and frameworks.
+
+### GitHub Stats
+
+<p align="center">
+  <img height="150" width="auto" src="https://github-readme-stats.vercel.app/api?username=lassedtu&show_icons=true&count_private=true&theme=darcula&hide_border=true">
+  <img height="150" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lassedtu&layout=compact&hide_border=true&theme=darcula&langs_count=6">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lassedtu&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
+
+### Let's connect!
+
+- 💼 LinkedIn: [Lasse](https://www.linkedin.com/in/lasses-linked-in/)  
+- 🌐 GitHub: [lassedtu](https://github.com/lassedtu)
