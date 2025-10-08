@@ -9,9 +9,10 @@ Hey, I’m Lasse! I’m a Danish university student, studying Software Technolog
 
 Check out some of my highlighted projects:
 
-- 💻 [Java GOL](https://github.com/lassedtu/java-gol) – A Java implementation of the Game of Life.
-- 🔍 [Java Grep](https://github.com/lassedtu/java-grep) – A small project for text searching, similar to Unix `grep`.
-- 🧮 [Java Calculator](https://github.com/lassedtu/java-calculator) – A Java-based calculator project.
+- [Java GOL](https://github.com/lassedtu/java-gol) – A Java implementation of the Game of Life.
+- [Java Grep](https://github.com/lassedtu/java-grep) – A small project for text searching, similar to Unix `grep`.
+- [Java Calculator](https://github.com/lassedtu/java-calculator) – A Java-based calculator project.
+- [Python Math Tools](https://github.com/lassedtu/py-math-tools) - A Python library of custom math tools for university students.
 
 ### Tech Stack
 
