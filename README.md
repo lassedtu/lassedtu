@@ -1,6 +1,7 @@
 <h1 align='center'>👋 Hello!</h1>
 <p align='center'>
 <a href="https://github.com/lassedtu?tab=repositories"><img src="https://img.shields.io/github/stars/lassedtu?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
+<a href="https://lassedtu.github.io/"><img src="https://img.shields.io/badge/Website-lassedtu.github.io-blue?style=flat&logo=github"/></a>
 </p>
 
 Hey, I’m Lasse! I’m a Danish university student, studying Software Technology at DTU. I like learning to code both in school but also on my own, creating tools and projects in the process. Lately, I’ve been exploring Neovim, Rust, and Java.
