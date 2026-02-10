@@ -35,4 +35,19 @@ Languages & frameworks I work with:
 
 and I’m always learning more languages and frameworks.
 
+### Course Notes
+
+While studying at DTU, I create structured notes for the courses I’m taking and publish them openly. Writing things down helps me understand the material more deeply. By sharing them, I hope they can benefit others as well.
+
+You can find the courses i'm currently writing notes on here:
+
+- [02322 – Machine Oriented Programming – Notes](https://github.com/lassedtu/02322-Machine-Oriented-Programming-Notes)
+- [02324 – Advanced Programming – Notes](https://github.com/lassedtu/02324-Advanced-Programming-Notes)
+
+The repositories are continuously updated as the courses progress.
+
+The rest can be found here:
+> [All my notes](https://github.com/stars/lassedtu/lists/notes)
+
+
 ### [Let's connect!](https://www.linkedin.com/in/lasses-linked-in/)  
