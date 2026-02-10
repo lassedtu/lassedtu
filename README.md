@@ -14,12 +14,13 @@ Check out some of my highlighted projects:
 - [Java GOL](https://github.com/lassedtu/java-gol) – A Java implementation of the Game of Life.
 - [Java Grep](https://github.com/lassedtu/java-grep) – A small project for text searching, similar to Unix `grep`.
 - [Java Calculator](https://github.com/lassedtu/java-calculator) – A Java-based calculator project.
-- [Python Math Tools](https://github.com/lassedtu/py-math-tools) - Math tools I built in Python while learning.
+- [c Yukon Solitare](https://github.com/lassedtu/c-Yukon-Solitare) - Yukon Solitare game implemented in c.
 
 ### Tech Stack
 
 Languages & frameworks I work with:
 
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
