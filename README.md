@@ -5,6 +5,8 @@
 <a href="https://leetcode.com/u/lassedtu/"><img src="https://img.shields.io/badge/LeetCode-lassedtu-orange?style=flat&logo=leetcode"/></a>
 </p>
 <p align='center'>
+<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/></a>
 <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"/></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/></a>
@@ -13,8 +15,6 @@
 <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/></a>
 <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/></a>
 <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/></a>
-<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/></a>
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
 <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/></a>
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/></a>
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></a>
