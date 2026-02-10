@@ -21,7 +21,8 @@
 </p>
 
 
-Hey, I’m Lasse! I’m a Danish university student, studying Software Technology at DTU. I like learning to code both in school but also on my own, creating tools and projects in the process. Lately, I’ve been exploring Neovim, Rust, and Java.
+Hey, I’m Lasse! I’m a Danish university student, studying Software Technology at DTU. I like learning to code both in school but also on my own. 
+I use GitHub to share both my school and hobby projects.
 
 ### Pinned Repositories
 
