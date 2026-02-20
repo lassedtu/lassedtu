@@ -29,7 +29,7 @@ I use GitHub to share both my school and hobby projects.
 Check out some of my highlighted projects:
 
 - [c Yukon Solitare](https://github.com/lassedtu/c-Yukon-Solitare) - Yukon Solitare game implemented in c.
-- [walcman](https://github.com/lassedtu/walcman) – Aightweight terminal audio/music player using c and miniaudio.
+- [walcman](https://github.com/lassedtu/walcman) – A lightweight terminal audio/music player using c and miniaudio.
 - [Java GOL](https://github.com/lassedtu/java-gol) – A Java implementation of the Game of Life.
 - [Java Grep](https://github.com/lassedtu/java-grep) – A small project for text searching, similar to Unix `grep`.
 
