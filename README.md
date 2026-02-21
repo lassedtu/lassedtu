@@ -41,6 +41,7 @@ You can find the courses i'm currently writing notes on here:
 
 - [02322 – Machine Oriented Programming – Notes](https://github.com/lassedtu/02322-Machine-Oriented-Programming-Notes)
 - [02324 – Advanced Programming – Notes](https://github.com/lassedtu/02324-Advanced-Programming-Notes)
+- [02326 - Algorithms and Data Structures - Notes](https://github.com/lassedtu/02326-Algorithms-and-Data-Structures-Notes)
 
 The repositories are continuously updated as the courses progress.
 
