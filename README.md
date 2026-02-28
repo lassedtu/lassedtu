@@ -30,8 +30,8 @@ Check out some of my highlighted projects:
 
 - [walcman](https://github.com/lassedtu/walcman) – A lightweight terminal audio/music player using c and miniaudio.
 - [c Yukon Solitare](https://github.com/lassedtu/c-Yukon-Solitare) - Yukon Solitare game implemented in c.
-- [Java GOL](https://github.com/lassedtu/java-gol) – A Java implementation of the Game of Life.
-- [Java Grep](https://github.com/lassedtu/java-grep) – A small project for text searching, similar to Unix `grep`.
+- [Fact Engine](https://github.com/lassedtu/fact-engine) – Engine for showing daily facts.
+- [Flag Quiz](https://github.com/lassedtu/flag-quiz) – Web-app that tests your knowledge of flags with a quiz.
 
 ### Course Notes
 
