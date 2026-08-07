@@ -28,8 +28,8 @@ I use GitHub to share both my school and hobby projects.
 
 Check out some of my highlighted projects:
 
+- [ginnOS](https://github.com/lassedtu/ginnOS) – A hobby operating system built from scratch in C and x86 assembly.
 - [walcman](https://github.com/lassedtu/walcman) – A lightweight terminal audio/music player using c and miniaudio.
-- [c Yukon Solitare](https://github.com/lassedtu/c-Yukon-Solitare) - Yukon Solitare game implemented in c.
 - [c Double Pendulum](https://github.com/lassedtu/c-double-pendulum) – Real-time double pendulum simulation in c.
 - [Flag Quiz](https://github.com/lassedtu/flag-quiz) – Web-app that tests your knowledge of flags with a quiz.
 
