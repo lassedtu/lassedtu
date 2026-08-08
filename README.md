@@ -21,32 +21,22 @@
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></a>
 </p>
 
-
-Hey, I’m Lasse! I’m a Danish university student, studying Software Technology at DTU. I like learning to code both in school but also on my own. 
-I use GitHub to share both my school and hobby projects.
+21 year old Danish university student, studying Software Technology at DTU.
 
 ### Pinned Repositories
-
-Check out some of my highlighted projects:
 
 - [ginnOS](https://github.com/lassedtu/ginnOS) – A hobby operating system built from scratch in C and x86 assembly.
 - [walcman](https://github.com/lassedtu/walcman) – A lightweight terminal audio/music player using c and miniaudio.
 - [c Double Pendulum](https://github.com/lassedtu/c-double-pendulum) – Real-time double pendulum simulation in c.
 - [Flag Quiz](https://github.com/lassedtu/flag-quiz) – Web-app that tests your knowledge of flags with a quiz.
 
-### Course Notes
-
-While studying at DTU, I create structured notes for the courses I’m taking and publish them openly. Writing things down helps me understand the material more deeply. By sharing them, I hope they can benefit others as well.
-
-You can find the courses i'm currently writing notes on here:
-
+### Notes for Courses I'm Currently Taking
+> The repositories are continuously updated as the courses progress.
 - [02322 – Machine Oriented Programming – Notes](https://github.com/lassedtu/02322-Machine-Oriented-Programming-Notes)
 - [02324 – Advanced Programming – Notes](https://github.com/lassedtu/02324-Advanced-Programming-Notes)
 - [02326 - Algorithms and Data Structures - Notes](https://github.com/lassedtu/02326-Algorithms-and-Data-Structures-Notes)
 
-The repositories are continuously updated as the courses progress.
-
-You can find an overview of all my course notes (past and present) here:
+Overview of all my course notes (past and present):
 > [All my notes](https://github.com/stars/lassedtu/lists/notes)
 
 
