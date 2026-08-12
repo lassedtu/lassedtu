@@ -25,14 +25,14 @@
 
 ### Pinned Repositories
 
-- [ginnOS](https://github.com/lassedtu/ginnOS) – A hobby operating system built from scratch in C and x86 assembly.
-- [walcman](https://github.com/lassedtu/walcman) – A lightweight terminal audio/music player using c and miniaudio.
-- [c Double Pendulum](https://github.com/lassedtu/c-double-pendulum) – Real-time double pendulum simulation in c.
-- [Flag Quiz](https://github.com/lassedtu/flag-quiz) – Web-app that tests your knowledge of flags with a quiz.
+- [ginnOS](https://github.com/lassedtu/ginnOS): A hobby operating system built from scratch in C and x86 assembly.
+- [walcman](https://github.com/lassedtu/walcman): A lightweight terminal audio/music player using c and miniaudio.
+- [c Double Pendulum](https://github.com/lassedtu/c-double-pendulum): Real-time double pendulum simulation in c.
+- [Flag Quiz](https://github.com/lassedtu/flag-quiz): Web-app that tests your knowledge of flags with a quiz.
 
 ### Notes for Courses I'm Currently Taking
 > The repositories are continuously updated as the courses progress.
-- [02322 – Machine Oriented Programming – Notes](https://github.com/lassedtu/02322-Machine-Oriented-Programming-Notes)
+- [02322 - Machine Oriented Programming – Notes](https://github.com/lassedtu/02322-Machine-Oriented-Programming-Notes)
 - [02324 – Advanced Programming – Notes](https://github.com/lassedtu/02324-Advanced-Programming-Notes)
 - [02326 - Algorithms and Data Structures - Notes](https://github.com/lassedtu/02326-Algorithms-and-Data-Structures-Notes)
 
