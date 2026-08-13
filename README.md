@@ -32,9 +32,7 @@
 
 ### Notes for Courses I'm Currently Taking
 > The repositories are continuously updated as the courses progress.
-- [02322 - Machine Oriented Programming – Notes](https://github.com/lassedtu/02322-Machine-Oriented-Programming-Notes)
-- [02324 – Advanced Programming – Notes](https://github.com/lassedtu/02324-Advanced-Programming-Notes)
-- [02326 - Algorithms and Data Structures - Notes](https://github.com/lassedtu/02326-Algorithms-and-Data-Structures-Notes)
+- On vacation
 
 Overview of all my course notes (past and present):
 > [All my notes](https://github.com/stars/lassedtu/lists/notes)
