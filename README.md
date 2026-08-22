@@ -38,4 +38,10 @@ Overview of all my course notes (past and present):
 > [All my notes](https://github.com/stars/lassedtu/lists/notes)
 
 
-### [Let's connect!](https://www.linkedin.com/in/lasses-linked-in/)  
+### [Let's connect!](https://www.linkedin.com/in/lasses-linked-in/)
+
+#
+
+<p align='center'>
+  <a href="https://www.credly.com/badges/6d37ca41-450d-4e46-ad87-b073a38c3ca9/public_url"><img src="https://images.credly.com/size/110x110/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png" width="100"></a>
+</p>
