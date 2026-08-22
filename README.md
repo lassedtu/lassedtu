@@ -44,4 +44,5 @@ Overview of all my course notes (past and present):
 
 <p align='center'>
   <a href="https://www.credly.com/badges/6d37ca41-450d-4e46-ad87-b073a38c3ca9/public_url"><img src="https://images.credly.com/size/110x110/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png" width="70"></a>
+  <a href="https://www.credly.com/badges/0c8ba5ab-2876-4ca8-81f7-aa71c38eabe5/public_url"><img src="https://images.credly.com/size/110x110/images/e8fe3d67-2967-43d0-bc4a-7a268a37f47b/image.png" width="70"></a>
 </p>
