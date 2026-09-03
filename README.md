@@ -36,6 +36,7 @@
 - [02339 Cybersecurity Fundamentals](https://github.com/lassedtu/02339-cybersecurity-fundamentals-notes)
 - [62550 User Experience and Mobile Development](https://github.com/lassedtu/62550-user-experience-and-mobile-development-notes)
 - [02369 Software Processes and Patterns](https://github.com/lassedtu/02369-software-processes-and-patterns-notes)
+- [02335 Operating Systems](https://github.com/lassedtu/02335-operating-systems-notes)
 
 Overview of all my course notes (past and present):
 > [All my notes](https://github.com/stars/lassedtu/lists/notes)
