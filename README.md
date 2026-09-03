@@ -32,7 +32,9 @@
 
 ### Notes for Courses I'm Currently Taking
 > The repositories are continuously updated as the courses progress.
-- On vacation
+
+- [02339 Cybersecurity Fundamentals](https://github.com/lassedtu/02339-cybersecurity-fundamentals-notes)
+- [62550 User Experience and Mobile Development](https://github.com/lassedtu/62550-user-experience-and-mobile-development-notes)
 
 Overview of all my course notes (past and present):
 > [All my notes](https://github.com/stars/lassedtu/lists/notes)
