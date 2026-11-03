@@ -29,7 +29,7 @@
 - [ginnOS](https://github.com/lassedtu/ginnOS): A hobby operating system built from scratch in C and x86 assembly.
 - [walcman](https://github.com/lassedtu/walcman): A lightweight terminal audio/music player using c and miniaudio.
 - [macstrap](https://github.com/lassedtu/macstrap): CLI tool for macOS that sets up a new Mac by installing software with homebrew.
-- [alexandria](https://github.com/lassedtu/alexandria): Simple python script to clean up and organize a book collection.
+- [playground95](https://github.com/lassedtu/playground-95): Windows 95 inspired collection of fun games i coded.
 
 ### Notes for Courses I'm Currently Taking
 > The repositories are continuously updated as the courses progress.
